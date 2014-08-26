@@ -1,0 +1,225 @@
+Team Breaking Bad
+	Walter White tagged Chris Ayala 0 times
+	Walter White tagged Jason Murphy 1 times
+	Walter White tagged Thomas Griffin 0 times
+	Walter White tagged Michael Zincone 0 times
+	Walter White tagged Mark Fontenot 0 times
+	Walter White tagged Jarret Shook 0 times
+	Walter White tagged Matt Devoto 2 times
+	Walter White tagged Richard Caverly 1 times
+	Walter White tagged Mateo Medellin 0 times
+	Walter White tagged Whataburger 0 times
+	Walter White had a total of 4 tags
+	Skylar White tagged Chris Ayala 0 times
+	Skylar White tagged Jason Murphy 0 times
+	Skylar White tagged Thomas Griffin 0 times
+	Skylar White tagged Michael Zincone 0 times
+	Skylar White tagged Mark Fontenot 0 times
+	Skylar White tagged Jarret Shook 0 times
+	Skylar White tagged Matt Devoto 0 times
+	Skylar White tagged Richard Caverly 1 times
+	Skylar White tagged Mateo Medellin 1 times
+	Skylar White tagged Whataburger 0 times
+	Skylar White had a total of 2 tags
+	Walter Jr tagged Chris Ayala 0 times
+	Walter Jr tagged Jason Murphy 0 times
+	Walter Jr tagged Thomas Griffin 0 times
+	Walter Jr tagged Michael Zincone 0 times
+	Walter Jr tagged Mark Fontenot 0 times
+	Walter Jr tagged Jarret Shook 0 times
+	Walter Jr tagged Matt Devoto 2 times
+	Walter Jr tagged Richard Caverly 0 times
+	Walter Jr tagged Mateo Medellin 0 times
+	Walter Jr tagged Whataburger 0 times
+	Walter Jr had a total of 2 tags
+	Hank Schrader tagged Chris Ayala 1 times
+	Hank Schrader tagged Jason Murphy 0 times
+	Hank Schrader tagged Thomas Griffin 1 times
+	Hank Schrader tagged Michael Zincone 0 times
+	Hank Schrader tagged Mark Fontenot 0 times
+	Hank Schrader tagged Jarret Shook 0 times
+	Hank Schrader tagged Matt Devoto 0 times
+	Hank Schrader tagged Richard Caverly 0 times
+	Hank Schrader tagged Mateo Medellin 0 times
+	Hank Schrader tagged Whataburger 0 times
+	Hank Schrader had a total of 2 tags
+	Marie Schrader tagged Chris Ayala 0 times
+	Marie Schrader tagged Jason Murphy 0 times
+	Marie Schrader tagged Thomas Griffin 0 times
+	Marie Schrader tagged Michael Zincone 0 times
+	Marie Schrader tagged Mark Fontenot 1 times
+	Marie Schrader tagged Jarret Shook 1 times
+	Marie Schrader tagged Matt Devoto 0 times
+	Marie Schrader tagged Richard Caverly 0 times
+	Marie Schrader tagged Mateo Medellin 0 times
+	Marie Schrader tagged Whataburger 0 times
+	Marie Schrader had a total of 2 tags
+	Skinny Pete tagged Chris Ayala 0 times
+	Skinny Pete tagged Jason Murphy 0 times
+	Skinny Pete tagged Thomas Griffin 0 times
+	Skinny Pete tagged Michael Zincone 0 times
+	Skinny Pete tagged Mark Fontenot 0 times
+	Skinny Pete tagged Jarret Shook 0 times
+	Skinny Pete tagged Matt Devoto 0 times
+	Skinny Pete tagged Richard Caverly 1 times
+	Skinny Pete tagged Mateo Medellin 0 times
+	Skinny Pete tagged Whataburger 1 times
+	Skinny Pete had a total of 2 tags
+	Jesse Pinkman tagged Chris Ayala 0 times
+	Jesse Pinkman tagged Jason Murphy 0 times
+	Jesse Pinkman tagged Thomas Griffin 0 times
+	Jesse Pinkman tagged Michael Zincone 0 times
+	Jesse Pinkman tagged Mark Fontenot 1 times
+	Jesse Pinkman tagged Jarret Shook 0 times
+	Jesse Pinkman tagged Matt Devoto 0 times
+	Jesse Pinkman tagged Richard Caverly 0 times
+	Jesse Pinkman tagged Mateo Medellin 0 times
+	Jesse Pinkman tagged Whataburger 0 times
+	Jesse Pinkman had a total of 1 tags
+	Gustavo Fring tagged Chris Ayala 0 times
+	Gustavo Fring tagged Jason Murphy 0 times
+	Gustavo Fring tagged Thomas Griffin 0 times
+	Gustavo Fring tagged Michael Zincone 0 times
+	Gustavo Fring tagged Mark Fontenot 0 times
+	Gustavo Fring tagged Jarret Shook 0 times
+	Gustavo Fring tagged Matt Devoto 0 times
+	Gustavo Fring tagged Richard Caverly 0 times
+	Gustavo Fring tagged Mateo Medellin 1 times
+	Gustavo Fring tagged Whataburger 0 times
+	Gustavo Fring had a total of 1 tags
+	Badger Mayhew tagged Chris Ayala 0 times
+	Badger Mayhew tagged Jason Murphy 0 times
+	Badger Mayhew tagged Thomas Griffin 0 times
+	Badger Mayhew tagged Michael Zincone 0 times
+	Badger Mayhew tagged Mark Fontenot 0 times
+	Badger Mayhew tagged Jarret Shook 0 times
+	Badger Mayhew tagged Matt Devoto 0 times
+	Badger Mayhew tagged Richard Caverly 0 times
+	Badger Mayhew tagged Mateo Medellin 0 times
+	Badger Mayhew tagged Whataburger 0 times
+	Badger Mayhew had a total of 0 tags
+	Saul Goodman tagged Chris Ayala 0 times
+	Saul Goodman tagged Jason Murphy 0 times
+	Saul Goodman tagged Thomas Griffin 0 times
+	Saul Goodman tagged Michael Zincone 0 times
+	Saul Goodman tagged Mark Fontenot 0 times
+	Saul Goodman tagged Jarret Shook 0 times
+	Saul Goodman tagged Matt Devoto 0 times
+	Saul Goodman tagged Richard Caverly 0 times
+	Saul Goodman tagged Mateo Medellin 0 times
+	Saul Goodman tagged Whataburger 0 times
+	Saul Goodman had a total of 0 tags
+Team Breaking Bad: 161 points
+Team Kickass
+	Jason Murphy tagged Walter White 1 times
+	Jason Murphy tagged Skylar White 0 times
+	Jason Murphy tagged Walter Jr 0 times
+	Jason Murphy tagged Hank Schrader 0 times
+	Jason Murphy tagged Marie Schrader 1 times
+	Jason Murphy tagged Jesse Pinkman 0 times
+	Jason Murphy tagged Gustavo Fring 0 times
+	Jason Murphy tagged Skinny Pete 0 times
+	Jason Murphy tagged Badger Mayhew 0 times
+	Jason Murphy tagged Saul Goodman 0 times
+	Jason Murphy had a total of 2 tags
+	Thomas Griffin tagged Walter White 0 times
+	Thomas Griffin tagged Skylar White 0 times
+	Thomas Griffin tagged Walter Jr 0 times
+	Thomas Griffin tagged Hank Schrader 0 times
+	Thomas Griffin tagged Marie Schrader 0 times
+	Thomas Griffin tagged Jesse Pinkman 0 times
+	Thomas Griffin tagged Gustavo Fring 0 times
+	Thomas Griffin tagged Skinny Pete 0 times
+	Thomas Griffin tagged Badger Mayhew 0 times
+	Thomas Griffin tagged Saul Goodman 2 times
+	Thomas Griffin had a total of 2 tags
+	Michael Zincone tagged Walter White 0 times
+	Michael Zincone tagged Skylar White 1 times
+	Michael Zincone tagged Walter Jr 0 times
+	Michael Zincone tagged Hank Schrader 1 times
+	Michael Zincone tagged Marie Schrader 0 times
+	Michael Zincone tagged Jesse Pinkman 0 times
+	Michael Zincone tagged Gustavo Fring 0 times
+	Michael Zincone tagged Skinny Pete 0 times
+	Michael Zincone tagged Badger Mayhew 0 times
+	Michael Zincone tagged Saul Goodman 0 times
+	Michael Zincone had a total of 2 tags
+	Matt Devoto tagged Walter White 0 times
+	Matt Devoto tagged Skylar White 1 times
+	Matt Devoto tagged Walter Jr 1 times
+	Matt Devoto tagged Hank Schrader 0 times
+	Matt Devoto tagged Marie Schrader 0 times
+	Matt Devoto tagged Jesse Pinkman 0 times
+	Matt Devoto tagged Gustavo Fring 0 times
+	Matt Devoto tagged Skinny Pete 0 times
+	Matt Devoto tagged Badger Mayhew 0 times
+	Matt Devoto tagged Saul Goodman 0 times
+	Matt Devoto had a total of 2 tags
+	Mateo Medellin tagged Walter White 0 times
+	Mateo Medellin tagged Skylar White 0 times
+	Mateo Medellin tagged Walter Jr 0 times
+	Mateo Medellin tagged Hank Schrader 0 times
+	Mateo Medellin tagged Marie Schrader 0 times
+	Mateo Medellin tagged Jesse Pinkman 0 times
+	Mateo Medellin tagged Gustavo Fring 0 times
+	Mateo Medellin tagged Skinny Pete 0 times
+	Mateo Medellin tagged Badger Mayhew 1 times
+	Mateo Medellin tagged Saul Goodman 1 times
+	Mateo Medellin had a total of 2 tags
+	Chris Ayala tagged Walter White 0 times
+	Chris Ayala tagged Skylar White 0 times
+	Chris Ayala tagged Walter Jr 0 times
+	Chris Ayala tagged Hank Schrader 1 times
+	Chris Ayala tagged Marie Schrader 0 times
+	Chris Ayala tagged Jesse Pinkman 0 times
+	Chris Ayala tagged Gustavo Fring 0 times
+	Chris Ayala tagged Skinny Pete 0 times
+	Chris Ayala tagged Badger Mayhew 0 times
+	Chris Ayala tagged Saul Goodman 0 times
+	Chris Ayala had a total of 1 tags
+	Mark Fontenot tagged Walter White 0 times
+	Mark Fontenot tagged Skylar White 0 times
+	Mark Fontenot tagged Walter Jr 0 times
+	Mark Fontenot tagged Hank Schrader 0 times
+	Mark Fontenot tagged Marie Schrader 0 times
+	Mark Fontenot tagged Jesse Pinkman 1 times
+	Mark Fontenot tagged Gustavo Fring 0 times
+	Mark Fontenot tagged Skinny Pete 0 times
+	Mark Fontenot tagged Badger Mayhew 0 times
+	Mark Fontenot tagged Saul Goodman 0 times
+	Mark Fontenot had a total of 1 tags
+	Jarret Shook tagged Walter White 0 times
+	Jarret Shook tagged Skylar White 0 times
+	Jarret Shook tagged Walter Jr 0 times
+	Jarret Shook tagged Hank Schrader 0 times
+	Jarret Shook tagged Marie Schrader 0 times
+	Jarret Shook tagged Jesse Pinkman 0 times
+	Jarret Shook tagged Gustavo Fring 0 times
+	Jarret Shook tagged Skinny Pete 1 times
+	Jarret Shook tagged Badger Mayhew 0 times
+	Jarret Shook tagged Saul Goodman 0 times
+	Jarret Shook had a total of 1 tags
+	Richard Caverly tagged Walter White 1 times
+	Richard Caverly tagged Skylar White 0 times
+	Richard Caverly tagged Walter Jr 0 times
+	Richard Caverly tagged Hank Schrader 0 times
+	Richard Caverly tagged Marie Schrader 0 times
+	Richard Caverly tagged Jesse Pinkman 0 times
+	Richard Caverly tagged Gustavo Fring 0 times
+	Richard Caverly tagged Skinny Pete 0 times
+	Richard Caverly tagged Badger Mayhew 0 times
+	Richard Caverly tagged Saul Goodman 0 times
+	Richard Caverly had a total of 1 tags
+	Whataburger tagged Walter White 0 times
+	Whataburger tagged Skylar White 0 times
+	Whataburger tagged Walter Jr 1 times
+	Whataburger tagged Hank Schrader 0 times
+	Whataburger tagged Marie Schrader 0 times
+	Whataburger tagged Jesse Pinkman 0 times
+	Whataburger tagged Gustavo Fring 0 times
+	Whataburger tagged Skinny Pete 0 times
+	Whataburger tagged Badger Mayhew 0 times
+	Whataburger tagged Saul Goodman 0 times
+	Whataburger had a total of 1 tags
+Team Kickass: 119 points
+Overall winners: Team Breaking Bad

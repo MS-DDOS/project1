@@ -1,0 +1,13 @@
+The Cowboys
+	Sally had a total of 2 tags
+	Sam had a total of 2 tags
+	Bob had a total of 0 tags
+The Sharks
+	Jack had a total of 1 tags
+	Kenny had a total of 1 tags
+	Jill had a total of 0 tags
+Best score from The Cowboys: Sam (20 points)
+Best score from The Sharks: Jack (10 points)
+The Cowboys: 33 points
+The Sharks: 18 points
+Overall winners: The Cowboys

@@ -1,0 +1,27 @@
+Team Breaking Bad
+	Walter White had a total of 4 tags
+	Skylar White had a total of 2 tags
+	Walter Jr had a total of 2 tags
+	Hank Schrader had a total of 2 tags
+	Marie Schrader had a total of 2 tags
+	Skinny Pete had a total of 2 tags
+	Jesse Pinkman had a total of 1 tags
+	Gustavo Fring had a total of 1 tags
+	Badger Mayhew had a total of 0 tags
+	Saul Goodman had a total of 0 tags
+Team Kickass
+	Jason Murphy had a total of 2 tags
+	Thomas Griffin had a total of 2 tags
+	Michael Zincone had a total of 2 tags
+	Matt Devoto had a total of 2 tags
+	Mateo Medellin had a total of 2 tags
+	Chris Ayala had a total of 1 tags
+	Mark Fontenot had a total of 1 tags
+	Jarret Shook had a total of 1 tags
+	Richard Caverly had a total of 1 tags
+	Whataburger had a total of 1 tags
+Best score from Team Breaking Bad: Walter White (45 points)
+Best score from Team Kickass: Matt Devoto (20 points)
+Team Breaking Bad: 161 points
+Team Kickass: 119 points
+Overall winners: Team Breaking Bad

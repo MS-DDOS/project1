@@ -1,0 +1,65 @@
+Team Professorials
+	Fontenot tagged Strawberry 0 times
+	Fontenot tagged Blueberry 0 times
+	Fontenot tagged Chocolate chip 1 times
+	Fontenot tagged Plain 1 times
+	Fontenot tagged Bagels 0 times
+	Fontenot had a total of 2 tags
+	Greenberg tagged Strawberry 1 times
+	Greenberg tagged Blueberry 0 times
+	Greenberg tagged Chocolate chip 0 times
+	Greenberg tagged Plain 1 times
+	Greenberg tagged Bagels 0 times
+	Greenberg had a total of 2 tags
+	Raley tagged Strawberry 0 times
+	Raley tagged Blueberry 1 times
+	Raley tagged Chocolate chip 0 times
+	Raley tagged Plain 0 times
+	Raley tagged Bagels 0 times
+	Raley had a total of 1 tags
+	David Matula tagged Strawberry 1 times
+	David Matula tagged Blueberry 0 times
+	David Matula tagged Chocolate chip 0 times
+	David Matula tagged Plain 0 times
+	David Matula tagged Bagels 0 times
+	David Matula had a total of 1 tags
+	Moore tagged Strawberry 0 times
+	Moore tagged Blueberry 0 times
+	Moore tagged Chocolate chip 0 times
+	Moore tagged Plain 0 times
+	Moore tagged Bagels 1 times
+	Moore had a total of 1 tags
+Team Professorials: 71 points
+Team Waffles
+	Strawberry tagged Fontenot 2 times
+	Strawberry tagged Raley 0 times
+	Strawberry tagged David Matula 0 times
+	Strawberry tagged Greenberg 0 times
+	Strawberry tagged Moore 0 times
+	Strawberry had a total of 3 tags
+	Plain tagged Fontenot 0 times
+	Plain tagged Raley 0 times
+	Plain tagged David Matula 2 times
+	Plain tagged Greenberg 0 times
+	Plain tagged Moore 0 times
+	Plain had a total of 2 tags
+	Bagels tagged Fontenot 0 times
+	Bagels tagged Raley 0 times
+	Bagels tagged David Matula 0 times
+	Bagels tagged Greenberg 0 times
+	Bagels tagged Moore 2 times
+	Bagels had a total of 2 tags
+	Chocolate chip tagged Fontenot 0 times
+	Chocolate chip tagged Raley 1 times
+	Chocolate chip tagged David Matula 0 times
+	Chocolate chip tagged Greenberg 0 times
+	Chocolate chip tagged Moore 0 times
+	Chocolate chip had a total of 1 tags
+	Blueberry tagged Fontenot 0 times
+	Blueberry tagged Raley 0 times
+	Blueberry tagged David Matula 0 times
+	Blueberry tagged Greenberg 0 times
+	Blueberry tagged Moore 0 times
+	Blueberry had a total of 0 tags
+Team Waffles: 61 points
+Overall winners: Team Professorials

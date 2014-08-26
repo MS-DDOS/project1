@@ -1,0 +1,8 @@
+Team Waffles
+5
+1 Strawberry
+2 Blueberry
+3 Chocolate chip
+4 Plain
+5 Bagels
+
